@@ -1,0 +1,9 @@
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'test',
+        'USER': 'root',
+        'PASSWORD': '1',
+        'HOST': '127.0.0.1',
+        'PORT':'3306',
+----------------------------------------------------------------
+LANGUAGE_CODE = 'zh-CN'
+TIME_ZONE = 'Asia/Shanghai'
