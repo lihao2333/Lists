@@ -1,0 +1,5 @@
+deb cdrom:[Ubuntu 16.04.2 LTS _Xenial Xerus_ - Release amd64 (20170215.2)]/ xenial main restricted
+deb http://archive.ubuntu.com/ubuntu/ xenial main restricted
+deb http://security.ubuntu.com/ubuntu/ xenial-security main restricted
+deb http://archive.ubuntu.com/ubuntu/ xenial-updates main restricted
+
